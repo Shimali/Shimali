@@ -81,7 +81,6 @@ public class ShimaliThabassum extends SeniorEngineer {
 | **7-engineer team** | Technical Lead & Scrum Master — design reviews, sprint coordination, architecture decisions |
 | **2× Innovation grants** | Won two internal HID Global innovation contest grants for physical access control ideas |
 | **2 engineers promoted** | Mentored junior engineers who both progressed to mid-level roles |
-| **MTTD improvement** | Introduced Splunk log search workflows — cut mean time to diagnose production incidents |
 
 ---
 
